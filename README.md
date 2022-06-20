@@ -5,6 +5,7 @@ Code contains webapp + RESTful API, you probably need to edit it to fit your usa
 Zalo AI competitor, not really, but free.
 
 web demo: https://api.lets-rp.com/ninedash/
+
 api: https://api.lets-rp.com/v1/ninedash/detect
 
 example json return data:
