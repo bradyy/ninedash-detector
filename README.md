@@ -8,7 +8,8 @@ web demo: https://api.lets-rp.com/ninedash/
 api: https://api.lets-rp.com/v1/ninedash/detect
 
 example json return data:
-```{
+```
+{
     "have_ninedash": 1,
     "locations": [
         {
@@ -32,6 +33,5 @@ example json return data:
     ]
 }
 ```
-
 if have_ninedash is 0, locations is undefined.
 
