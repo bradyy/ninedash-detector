@@ -38,4 +38,4 @@ example json return data:
 ```
 if have_ninedash is 0, locations is undefined.
 
-**Built for Windows, you can use Nginx + Waitress to serve it over the web, if you're on Ubuntu you can do Nginx + Gunicorn/uWSGI**
+**Built for Windows, you can use Nginx + Waitress to serve it over the web, if you're on Linux you can use Nginx + Gunicorn/uWSGI**
