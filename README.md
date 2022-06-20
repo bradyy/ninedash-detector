@@ -8,6 +8,8 @@ web demo: https://api.lets-rp.com/ninedash/
 
 api: https://api.lets-rp.com/v1/ninedash/detect
 
+example api request w/ curl: curl -X POST -F image=@"path" "https://api.lets-rp.com/v1/ninedash/detect"
+
 example json return data:
 ```
 {
